@@ -25,3 +25,6 @@ cd open-question-database
 npm install
 npm start
 ```
+
+## License
+[MIT](LICENSE) © Saravanan
