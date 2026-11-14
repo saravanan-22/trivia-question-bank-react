@@ -5,8 +5,8 @@ A community question bank (inspired by Open Trivia DB) where users contribute, b
 **▶ Live demo: [openquestionsadddatabase.netlify.app](https://openquestionsadddatabase.netlify.app/)**
 
 <p>
-  <img src="https://raw.githubusercontent.com/saravanan-22/react-portfolio/main/src/images/oqdb_image1.jpg" width="49%" alt="Home page" />
-  <img src="https://raw.githubusercontent.com/saravanan-22/react-portfolio/main/src/images/oqdb_image2.jpg" width="49%" alt="Add question" />
+  <img src="https://raw.githubusercontent.com/saravanan-22/old-portfolio-react/main/src/images/oqdb_image1.jpg" width="49%" alt="Home page" />
+  <img src="https://raw.githubusercontent.com/saravanan-22/old-portfolio-react/main/src/images/oqdb_image2.jpg" width="49%" alt="Add question" />
 </p>
 
 ## Features
@@ -20,8 +20,8 @@ React · React Router · React Bootstrap · React Spring · Firebase Auth · Clo
 
 ## Run locally
 ```bash
-git clone https://github.com/saravanan-22/open-question-database.git
-cd open-question-database
+git clone https://github.com/saravanan-22/trivia-question-bank-react.git
+cd trivia-question-bank-react
 npm install
 npm start
 ```
